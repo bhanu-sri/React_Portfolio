@@ -4,9 +4,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import girl from "../../Assets/girl.png";
 import Tilt from "react-parallax-tilt";
 import {
-  AiFillGithub,
-  AiOutlineTwitter,
-  AiFillInstagram,
+  AiFillGithub
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 import { FaCode } from 'react-icons/fa';
